@@ -58,5 +58,3 @@ contract Token {
     }
 
 }
-
- 
